@@ -1,0 +1,12 @@
+ana 4.0
+ana 6.0
+mada 5.0
+mada 15.0
+mada 8.0
+mada 2.0
+mada 2.5
+maria 1.0
+maria 3.0
+maria 1.0
+maria 2.5
+mario 1.5

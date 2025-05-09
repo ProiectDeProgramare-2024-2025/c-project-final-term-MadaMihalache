@@ -1,0 +1,4 @@
+mada 15.0
+ana 6.0
+maria 3.0
+mario 1.5
